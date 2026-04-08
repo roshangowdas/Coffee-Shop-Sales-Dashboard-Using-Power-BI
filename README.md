@@ -20,8 +20,6 @@ This project is an interactive **Power BI dashboard** built using the Coffee Sho
 ## 📷 Output Screenshot  
 ![Dashboard Screenshot](lab4output.jpeg)
 
-> 📌 Replace `screenshot.png` with your actual image file name after uploading it to your GitHub repository.
-
 ## 📌 Purpose  
 To create a clean and interactive dashboard for analyzing coffee shop sales data.
 
